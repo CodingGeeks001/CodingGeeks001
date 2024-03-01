@@ -17,3 +17,8 @@ function multiply(a, b) {
 function divide(a, b) {
     return a / b;
 }
+
+// area function
+function area(a, b) {
+    return a * b;
+}
